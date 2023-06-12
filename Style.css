@@ -1,0 +1,195 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #e8e8e8;
+  margin: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 32px;
+  text-transform: uppercase;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 24px;
+  color: #333;
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'Georgia', serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #008080;
+  text-align: center;
+  font-style: italic;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+footer p {
+  font-size: 14px;
+}
+
+.change{
+  font-family: 'Pacifico', cursive;
+  color: purple;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.relax{
+  font-family: 'Comic Sans', cursive;
+  color: yellowgreen;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.young{
+  font-family: 'Pacifico', cursive;
+  text-transform: capitalize;
+  font-size:24px;
+  color:red;
+}
+.girl{
+  font-family: 'Comic Sans', cursive;
+  color: hotpink;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.marry{
+  font-family: 'Pacifico', cursive;
+  color: deeppink;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.Line1{
+  font-family:'Copperplate', cursive;
+  font-size:24px;
+  text-transform: capitalize;
+  color: orange;
+}
+.calm{
+    font-family: 'Pacifico', cursive;
+  color: purple;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.time{
+  font-family: 'Comic Sans', cursive;
+  color: green;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.tomorrow{
+    font-family: 'Pacifico', cursive;
+  color: yellowgreen;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.Line2{
+  font-family:'Copperplate', cursive;
+  font-size:24px;
+  text-transform: capitalize;
+  color: red;
+}
+.explain{
+  font-family: 'Pacifico', cursive;
+  color: darkseagreen;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.Old{
+  font-family: 'Comic Sans', cursive;
+  color: darkcyan;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.listen{
+  font-family: 'Pacifico', cursive;
+  color: darkgoldenrod;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.goaway{
+  font-family: 'Comic Sans', cursive;
+  color: green;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.Line3{
+  font-family:'Goudy Stout', cursive;
+  font-size:26px;
+  text-transform: capitalize;
+  color: darkorange;
+  text-decoration:bold;
+}
+.change1{
+  font-family: 'Pacifico', cursive;
+  color: purple;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.sitdown{
+  font-family: 'Comic Sans', cursive;
+  color: yellowgreen;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.young1{
+  font-family: 'Pacifico', cursive;
+  text-transform: capitalize;
+  font-size:24px;
+  color:red;
+}
+.girl1{
+  font-family: 'Comic Sans', cursive;
+  color: hotpink;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.marry1{
+  font-family: 'Pacifico', cursive;
+  color: deeppink;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.Line4{
+  font-family:'Copperplate', cursive;
+  font-size:24px;
+  text-transform: capitalize;
+  color: orange;
+}
+.goaway1{
+  font-family: 'Comic Sans', cursive;
+  color: green;
+  font-size:24px;
+  text-transform: capitalize;
+}
+.Line5{
+  font-family:'Goudy Stout', cursive;
+  font-size:26px;
+  text-transform: capitalize;
+  color: darkorange;
+  text-decoration:bold;
+}
+.ignore{
+  font-family:'Copperplate', cursive;
+  font-size:24px;
+  text-transform: capitalize;
+  color: red;
+}
